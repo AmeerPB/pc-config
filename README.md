@@ -13,7 +13,7 @@ PC Configuration
 | Case   |  Corsair Tempered Glass, Alloy Steel 4000D Airflow Tempered Glass Mid-Tower ATX Case, Black (CC-9011200-WW) | 6600    |
 | Total |   | 1,07000  |
 
-
+<br>
 
 
 | Hardware | Brand and Model | Price |
