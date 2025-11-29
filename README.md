@@ -1,6 +1,21 @@
-# pc-config
-PC Configuration
+## PC Configuration
 
+* 29Nov2025
+
+| Hardware | Brand and Model | Price |
+|----------|-----------------|-------|
+| CPU   | Ryzen 5900xt |   30000   |
+| MotherBoard   | MSI MPG B550 Gaming Plus  |  17000  |
+| PSU   |  MSI MAG A750GL PSU |  8500   |
+| CPU Cooler   |  Ant Value AV240 cpu cooler  |  3000   |
+| SSD   |  1tb SSD |  10000   |
+| RAM   | 32gb crucial ddr4 |  13000   |
+| Case   |  NIL | NIL    |
+| Total |   | 81500  |
+
+
+
+<br>
 
 | Hardware | Brand and Model | Price |
 |----------|-----------------|-------|
