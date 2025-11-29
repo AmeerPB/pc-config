@@ -14,6 +14,65 @@
 | Total |   | 81500  |
 
 
+### Suggestions for the above
+
+🌡 CPU Cooler – Ant Value AV240 (₹3,000)
+
+⚠ This is the weakest part of your build.
+
+Why a concern:
+
+The 5900XT is a 12-core chip that will run hot under VM workloads.
+
+The Ant Value AV240 is a very entry-level AIO, low pump quality, thin radiator, mid fans.
+
+Recommendation:
+
+Upgrade to at least:
+
+Budget but safe:
+
+Deepcool AG400 Plus – ₹2,200 (beats many AIOs)
+
+Deepcool AK400 – ₹2,900
+
+Mid-range (best value):
+
+Deepcool AK620 – ₹5,500
+
+Arctic Freezer 34 eSports Duo – ₹3,800
+
+Your CPU will thank you.
+For Proxmox, air coolers are more reliable than cheap AIOs.
+
+📦 SSD – 1TB (₹10,000)
+
+This depends which SSD.
+
+For Proxmox:
+You must avoid QLC SSDs for VM workloads — they die quickly.
+
+Recommended SSD types:
+
+✔ TLC NAND
+✔ DRAM-based
+✔ High endurance
+
+Good choices:
+
+Samsung 980 Pro
+
+WD Black SN850
+
+Crucial P5 Plus
+
+Kingston KC3000
+
+Sabrent Rocket 4.0
+
+If it is a QVO/Qlc/DRAM-less SSD → BAD for Proxmox.
+
+
 
 <br>
 
